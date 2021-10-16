@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+}
+.button{
+   text-align: center; 
+   height: 700;
+}
+.a1{
+    width: 300px;
+    border-radius: 50px;
+    font-size: 23px;
+}
+.a2{
+    width: 300px;
+    border-radius: 50px;
+    font-size: 23px;
+}
+.a3{
+    width: 300px;
+    border-radius: 50px;
+    font-size: 23px;
+}
+.a4{
+    width: 300px;
+    border-radius: 50px;
+    font-size: 23px;
+}
+.a5{
+    width: 300px;
+    border-radius: 50px;
+    font-size: 23px;
+}
+.heading1{
+ width: 100%;
+}
+body{
+    text-align: center;
+}
+canvas{
+    width: 640;
+    height: 430;
+    box-shadow: 1px 1px 1px grey;
+}
+
+#status{
+    height: 100px;
+    width: 10px;
+    color:  blue;
+}
+canvas{
+    width: 500;
+    height: 500;
+    box-shadow: 5px, 5px, 5px, grey;
+}
